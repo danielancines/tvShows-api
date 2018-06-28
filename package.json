@@ -23,7 +23,8 @@
   "homepage": "https://github.com/danielancines/tvShows-api#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
